@@ -5,6 +5,7 @@ const App = () => {
   return (
     <View>
       <Text>FareGo........</Text>
+      <Text>Upcoming........</Text>
     </View>
   );
 };
