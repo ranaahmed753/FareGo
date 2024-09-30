@@ -6,9 +6,6 @@ const App = () => {
     <View>
       <Text>FareGo........</Text>
       <Text>Upcoming........</Text>
-      <Text>Upcoming........</Text>
-      <Text>Upcoming........</Text>
-      <Text>Upcoming........</Text>
     </View>
   );
 };
